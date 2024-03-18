@@ -20,7 +20,7 @@ public class AiPlayer extends Player {
 
 
             do {
-
+                //
                 //  Random rand = new Random();
                 //  col = rand.nextInt(6);
                 int range = 6;
